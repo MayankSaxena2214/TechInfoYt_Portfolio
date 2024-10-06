@@ -1,0 +1,16 @@
+Install react - npx create-react-app client (here client is the application name)
+
+@To get light/dark theme options we use context api
+context api is a part of react
+
+Important npm packages
+1.Typewriter
+2.react-vertical-timeline-component
+3.react-scroll-to-top
+4.react-scroll
+
+LIBRARY FOR ANIMATIONS
+1.framermotion (heavy)
+2.gsabbay
+3.aos (light)
+4. react-reveal (npm) (light)
